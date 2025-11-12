@@ -5,7 +5,7 @@
 ### Sobre mí 🌟
 Soy Estudiante de  Ingeniería en Sistemas Computacionales, me considero alguien con **Carísma Interpersonal**, **Responsable** y con una gran **Adaptabilidad** en cuanto a retos, proyectos  y resolucion de problemas.
 
-🚀 Apasionado por el desarrollo de software, la administración de bases de datos y la tecnología aplicada a la resolución de problemas reales, me gusta mejorar mis habilidades y aprender nuevos conociminetos en Desarrollo de Software.
+🚀 Apasionado por el desarrollo de software, la administración de bases de datos y la tecnología aplicada a la resolución de problemas reales, me gusta mejorar mis habilidades y aprender nuevos conocimientos en Desarrollo de Software.
 
 ## 🛠 Herramientas y Lenguajes
 <img width="60" height="64" alt="image" src="https://github.com/user-attachments/assets/58d2fc9a-8d0a-408f-900c-304ed7b5b88d" />
