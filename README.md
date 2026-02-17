@@ -1,5 +1,3 @@
-![dkj4uxl-43c743a9-461c-44ed-b94b-c4e5fc351e1a](https://github.com/user-attachments/assets/bfc2c1bf-cbb7-4df5-9e2c-7027faa342a2)
-
 ## ¡¡ Que tal, Soy  Daniel Romero !!
 
 ### Sobre mí 🌟
