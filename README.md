@@ -1,18 +1,28 @@
-## ¡¡ Que tal, Soy  Daniel Romero !!
+# Hola, soy Daniel Romero 👋
+### 🚀 Transformando problemas complejos en soluciones de software
 
-### Sobre mí 🌟
-Soy Estudiante de  Ingeniería en Sistemas Computacionales, me considero alguien con **Carísma Interpersonal**, **Responsable** y con una gran **Adaptabilidad** en cuanto a retos, proyectos  y resolucion de problemas.
+Soy Estudiante de Ingeniería en Sistemas Computacionales en Tijuana. Me encanta el aprendizaje continuo y disfruto enfrentar retos técnicos que me obliguen a salir de mi zona de confort. 
 
-🚀 Apasionado por el desarrollo de software, la administración de bases de datos y la tecnología aplicada a la resolución de problemas reales, me gusta mejorar mis habilidades y aprender nuevos conocimientos en Desarrollo de Software.
+**Sobre mi perfil:**
+- 🧠 **Habilidades clave:** Adaptabilidad rápida, resolución de problemas y excelente dinámica de trabajo en equipo.
+- 🎯 **Intereses actuales:** Desarrollo de software, administración de bases de datos, tecnologías Cloud y automatización.
+- 📚 **Siempre aprendiendo:** Constantemente mejorando mi lógica de programación y mis bases de desarrollo web.
 
-## 🛠 Herramientas y Lenguajes
-<img width="60" height="64" alt="image" src="https://github.com/user-attachments/assets/58d2fc9a-8d0a-408f-900c-304ed7b5b88d" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/2b5646b9-9c40-441e-b1d0-e4508e782e7e" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/87508cb2-7a07-4e38-9f64-b0c74a95dea2" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/ac0d41c9-6312-476b-88f7-8fefaef0e5a6" />
-<img width="60" height="62" alt="image" src="https://github.com/user-attachments/assets/a7d05c00-d70d-4875-ac44-33665088a3f6" />
-<img width="60" height="62" alt="image" src="https://github.com/user-attachments/assets/9d86bb04-5e5e-4b2f-85a6-a0db44256220" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b4c391a8-9e6f-4980-aa28-f2aa05dfe72c" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/198e210b-e78f-4556-b535-a9dd74e2c64d" />
+**💻 Stack Tecnológico:**
+- **Lenguajes:** `C#` | `Python` | `JavaScript` | `HTML` | `CSS`
+- **Bases de Datos:** `PostgreSQL` | `SQL Server` | `MySQL`
+- **Herramientas:** `Visual Studio` | `VS Code` | `Git`
+
+---
+
+### 📂 Proyectos Destacados
+* **Sistema de Monitoreo IoT:** Implementación de sensores y visualización de datos en tiempo real utilizando plataformas como Flespi y servicios Cloud.
+* **Desarrollo Web y Servidores:** Creación de un servidor web utilizando Python para la gestión de peticiones, junto con el diseño de interfaces web.
+
+---
+
+### 📫 Cómo contactarme
+- **LinkedIn:** [Mi perfil](linkedin.com/in/daniel-romero-75b87434b)
+- **Email:** dr083168@gmail.com
 
 
