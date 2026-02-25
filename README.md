@@ -22,7 +22,7 @@ Soy Estudiante de Ingeniería en Sistemas Computacionales en Tijuana. Me encanta
 ---
 
 ### 📫 Cómo contactarme
-- **LinkedIn:** [Mi perfil](linkedin.com/in/daniel-romero-75b87434b)
+- **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/daniel-romero-75b87434b/)
 - **Email:** dr083168@gmail.com
 
 
